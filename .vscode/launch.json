@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CampingApplication<camping-camping-main>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ict.camping.CampingApplication",
+            "projectName": "camping-camping-main",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CampingApplication<camping-main>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ict.camping.CampingApplication",
+            "projectName": "camping-main",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
